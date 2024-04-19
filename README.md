@@ -1,3 +1,4 @@
+# Company-employee-s-database-system
 For my Programming 1 final project, I developed a database
 system in C for employee management within a company.
 The system allowed adding, modifying, sorting, searching,
